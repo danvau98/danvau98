@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danvau98
 - 👀 I’m interested in computational Biology and Pharmaceutics
-- 🌱 I’m currently researching how to solve nonlinear mathematical equatios
+- 🌱 I’m currently researching how to solve nonlinear mathematical equations
 - 💞️ I’m looking to collaborate on developing mathematical models
 - 📫 How to reach me daniel.vaughan@nottingham.ac.uk
 
