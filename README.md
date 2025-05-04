@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danvau98.
-- 👀 I’m interested in mathematical modelling of comlex systems. 
+- 👀 I’m interested in mathematical modelling of complex systems. 
 - 🌱 I’m currently researching how to solve nonlinear partial differential equations.
 - 💞️ I’m looking to collaborate on developing mathematical models.
 - 📫 How to reach me daniel.vaughan@nottingham.ac.uk.
