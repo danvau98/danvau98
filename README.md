@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danvau98.
 - 👀 I’m interested in mathematical modelling of complex systems. 
-- 🌱 I’m currently researching how to solve nonlinear partial differential equations.
+- 🌱 I’m currently researching how to solve nonlinear partial differential equations and gene sequence analysis.
 - 💞️ I’m looking to collaborate on developing mathematical models.
 
 <!---
